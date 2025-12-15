@@ -16,7 +16,7 @@ switch (light) {
 		break;
 
 	default:
-		console.log("Unknow");
+		console.log("Unknown");
 		break;
 
 }
