@@ -1,6 +1,6 @@
 const inputLight = process.argv[2];
 
-light = inputLight.toLowerCase();
+let light = inputLight.toLowerCase();
 
 switch (light) {
 	case "red":
